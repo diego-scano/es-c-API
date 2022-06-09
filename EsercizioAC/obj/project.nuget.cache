@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0eVoHH1dvCI2mdA7Ipe8oJjEuIIRxK56jxeUJMZfeXmoIvB1I0ZAOYczd9PbvmQK7k0J7SvoQDxTAbWqIPzHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego.scano\\Desktop\\EsercizioAC\\EsercizioAC\\EsercizioAC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego.scano\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
